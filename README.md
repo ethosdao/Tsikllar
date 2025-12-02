@@ -1,0 +1,2 @@
+# Tsikllar
+1dan_10darajagacha_oddiy_kodlar
